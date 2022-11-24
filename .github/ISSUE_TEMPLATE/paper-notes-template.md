@@ -1,7 +1,7 @@
 ---
 name: Paper-notes-template
 about: Add new paper
-title: "[ Conference Year ] PaperName"
+title: "[Conference Year] PaperName"
 labels: ''
 assignees: ''
 
@@ -11,4 +11,4 @@ assignees: ''
 | ---- | ---- |
 | paper | [ # ]( link ) |
 | etc | [ paperswithcode ]( link ) |
-| etc | [ official web page ]( link ) |
+| etc | [ webpage ]( link ) |
